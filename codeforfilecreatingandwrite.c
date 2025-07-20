@@ -6,5 +6,6 @@ int main()
     fprintf(file,"Hello World");
     fclose(file);
     printf("I add some text");
+    printf("Some text added by Abid Khan");
     return 0;
 }
