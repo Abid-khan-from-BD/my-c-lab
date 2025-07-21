@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<stdlin.h>
+#include<stdlib.h>
 
 void nolead(){
     int *arr = malloc(5 * sizeof(int));
